@@ -1,6 +1,6 @@
 ## OOOOooooOO Damn That's a hot repository!
 
-You can use the [editor on GitHub](https://github.com/HoolAgain/HoolsHandyHacks/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolsHandyHacks/Assignment 1/Assign1.index.html)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
