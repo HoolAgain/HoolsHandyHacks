@@ -9,7 +9,8 @@ I'm currently a student at conestoga college and you can find my contact info at
 You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolAgain/)
 It's a basic working storefront page for my first Javascript oriented assignment. 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+![This is an image](https://hoolagain.github.io/HoolsHandyHacks/RepoImages/Gaming.jpg)
 
 
 
