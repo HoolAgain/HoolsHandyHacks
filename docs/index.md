@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## OOOOooooOO Damn That's a hot repository!
 
 You can use the [editor on GitHub](https://github.com/HoolAgain/HoolsHandyHacks/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
