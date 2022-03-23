@@ -19,8 +19,9 @@ I've helped develop some small games with my friends, and host them on itch! All
 In brackets beneath each projects name / image, was my particular contribution to development.
 
 [Jimposters](https://sobad.itch.io/jimposters) (Sound design, Case testing)
-![JimpostersMenu](https://img.itch.zone/aW1hZ2UvNDc2NjcyLzI0NDg5NjcuanBn/347x500/ZPfYVY.jpg)
-![Jimpostersgp](https://img.itch.zone/aW1hZ2UvNDc2NjcyLzI0NDg5NjEuanBn/347x500/SqYGk0.jpg)
+
+![JimpostersMenu](https://img.itch.zone/aW1hZ2UvNDc2NjcyLzI0NDg5NjcuanBn/347x500/ZPfYVY.jpg) ![Jimpostersgp](https://img.itch.zone/aW1hZ2UvNDc2NjcyLzI0NDg5NjEuanBn/347x500/SqYGk0.jpg)
+
 
 [Without Exception](https://sobad.itch.io/without-exception) (Case testing, moral support)
 ![WOEMenu](https://img.itch.zone/aW1hZ2UvNTUzMDIwLzI5MzE3NjYucG5n/347x500/cv%2BZi8.png)
