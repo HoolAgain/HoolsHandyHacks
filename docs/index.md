@@ -1,6 +1,6 @@
 ## OOOOooooOO Damn That's a hot repository!
 
-You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolsHandyHacks/docs/Assignment1)
+You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolAgain/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
