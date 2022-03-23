@@ -24,14 +24,17 @@ In brackets beneath each projects name / image, was my particular contribution t
 
 
 [Without Exception](https://sobad.itch.io/without-exception) (Case testing, moral support)
-![WOEMenu](https://img.itch.zone/aW1hZ2UvNTUzMDIwLzI5MzE3NjYucG5n/347x500/cv%2BZi8.png)
-![WOEgp](https://img.itch.zone/aW1hZ2UvNTUzMDIwLzI5MzE3NjgucG5n/347x500/HzYiQ9.png)
+
+![WOEMenu](https://img.itch.zone/aW1hZ2UvNTUzMDIwLzI5MzE3NjYucG5n/347x500/cv%2BZi8.png) ![WOEgp](https://img.itch.zone/aW1hZ2UvNTUzMDIwLzI5MzE3NjgucG5n/347x500/HzYiQ9.png)
+
 
 [Light and Shadow the making](https://sobad.itch.io/light-and-shadow-the-movie-the-making-of-the-game) (Sound design, Case Testing, Asset placement, Voice Acting)
-![LASMenu](https://img.itch.zone/aW1hZ2UvNTg0MDcyLzMwNzg3NDUucG5n/347x500/xqwOEn.png)
-![LASgp](https://img.itch.zone/aW1hZ2UvNTg0MDcyLzMwNzg2OTYucG5n/347x500/NAvo2o.png)
+
+![LASMenu](https://img.itch.zone/aW1hZ2UvNTg0MDcyLzMwNzg3NDUucG5n/347x500/xqwOEn.png) ![LASgp](https://img.itch.zone/aW1hZ2UvNTg0MDcyLzMwNzg2OTYucG5n/347x500/NAvo2o.png)
+
 
 [Side Effects Include:](https://sobad.itch.io/side-effects-include) (Sound design, Voice Acting, Asset Placement, In-engine serialiation, minor C# classes written)
-![SEIMenu](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI2NTMucG5n/347x500/50tSst.png)
-![SEIgp](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI3MTMucG5n/347x500/2z%2F1od.png)
+
+![SEIMenu](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI2NTMucG5n/347x500/50tSst.png) ![SEIgp](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI3MTMucG5n/347x500/2z%2F1od.png)
+
 
