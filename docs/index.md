@@ -1,10 +1,11 @@
 ## OOOOooooOO Damn That's a hot repository!
 
 #### My name is Erik Vallis (aka HoolAgain)
-I'm currently a student at conestoga college and you can find my contact info at the bottom of the page.
+I'm currently a student at conestoga college and you can find my contact info at the [bottom](#contactInfo) of the page.
 
 
-# Below is a series of links to webpages, or images of working projects designed in Visual Studio.
+
+## Below is a series of links to webpages, or images of working projects designed in Visual Studio.
 
 You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolAgain/)
 It's a basic working storefront page for my first Javascript oriented assignment. 
@@ -16,7 +17,8 @@ It's a basic working storefront page for my first Javascript oriented assignment
 
 I've helped develop some small games with my friends, and host them on itch! All 4 were done as timed "Game-Jams" where the objective is to complete a game with a given theme in a short amount of time! Then everyone shares their submissions.
 
-In brackets beneath each projects name / image, was my particular contribution to development.
+In brackets next to each projects name, was my particular contribution to development. The link brings you straight to the itch.io page where you can either play, or download to play the games!
+
 
 [Jimposters](https://sobad.itch.io/jimposters) (Sound design, Case testing)
 
@@ -38,3 +40,10 @@ In brackets beneath each projects name / image, was my particular contribution t
 ![SEIMenu](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI2NTMucG5n/347x500/50tSst.png) ![SEIgp](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI3MTMucG5n/347x500/2z%2F1od.png)
 
 
+##<a name="contactInfo"></a>Contact Me!
+
+My in-organization email, evallis3867@conestoga.on.ca is the preeminent means of contacting me for business / academic / partnering and collaborative reasons.
+
+If you'd simply like to game sometime or something, then HowdyCat@gmail.com will do :)
+
+Erik Vallis (HoolAgain), signing off.
