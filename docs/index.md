@@ -1,12 +1,11 @@
 ## OOOOooooOO Damn That's a hot repository!
 
 #### My name is Erik Vallis (aka HoolAgain)
-I'm currently a student at conestoga college and you can find my contact info at the [bottom](#contactInfo) of the page.
+I'm currently a student at conestoga college based in Kitchener, and you can find my contact info at the [bottom](#contactInfo) of the page.
 
 
 
 ## Below is a series of links to webpages, or images of working projects designed in Visual Studio.
-
 You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolAgain/)
 It's a basic working storefront page for my first Javascript oriented assignment. 
 
@@ -40,10 +39,10 @@ In brackets next to each projects name, was my particular contribution to develo
 ![SEIMenu](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI2NTMucG5n/347x500/50tSst.png) ![SEIgp](https://img.itch.zone/aW1hZ2UvNjk5MTA2LzM4NTI3MTMucG5n/347x500/2z%2F1od.png)
 
 
-##<a name="contactInfo"></a>Contact Me!
+
+## Contact Me <a name="contactInfo"></a>
 
 My in-organization email, evallis3867@conestoga.on.ca is the preeminent means of contacting me for business / academic / partnering and collaborative reasons.
-
 If you'd simply like to game sometime or something, then HowdyCat@gmail.com will do :)
 
 Erik Vallis (HoolAgain), signing off.
