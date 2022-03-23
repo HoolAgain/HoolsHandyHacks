@@ -1,19 +1,20 @@
 ## OOOOooooOO Damn That's a hot repository!
 
+#### My name is Erik Vallis (aka HoolAgain)
+I'm currently a student at conestoga college and you can find my contact info at the bottom of the page.
+
+
+# Below is a series of links to webpages, or images of working projects designed in Visual Studio.
+
 You can use this link to check out one of my latest projects! [Knitted Critters](https://hoolagain.github.io/HoolAgain/)
+It's a basic working storefront page for my first Javascript oriented assignment. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
@@ -24,14 +25,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HoolAgain/HoolsHandyHacks/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
